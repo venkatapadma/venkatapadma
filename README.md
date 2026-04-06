@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I am Venkata Padma
 
-<!--
-**venkatapadma/venkatapadma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Java Full stack developer
+- 👯 I’m looking to collaborate on java opensource projects
+  
+- 🚀 Developer focused on creating impactful, efficient and user‑centric solutions.
+ - I love working across the stack, exploring new tools, and turning ideas into production‑ready software.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Tech & Tools I Work With
+   - Languages: Java, Python, JavaScript, HTML, CSS, TypeScript, SQL, Go (basic)
+   - Frameworks/Tools: Spring Boot, Spring Cloud, Spring MVC, Spring Security, Hibernate, Angular, Vue.js, Node.js (basic), Maven, Gradle, Docker, GitHub, Git, GitHub Actions, GitHub Copilot, Jira, React, SonarQube, Jenkins
+   - Databases: MySQL, PostgreSQL, DynamoDB, MongoDB, Redis
+   - Cloud: AWS (Lambda, API Gateway, S3, EC2, DynamoDB, CloudWatch, Secrets Manager), Azure (exposure), Kubernetes
+   - Messaging/Streaming: Kafka (pub/sub, streaming), Event Driven Architecture
+   - Practices: Agile, Scrum, TDD, BDD, CI/CD, Code Reviews, Design Patterns, Distributed Systems Principles.
+   - Problem Solving: Data Structures and Algorithms
