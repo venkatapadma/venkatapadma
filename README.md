@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Venkata Padma
 
-- 🔭 I’m currently working as a Java Full stack developer
+- 🔭 I’m currently looking for Java Full stack developer opportunities.
 - 👯 I’m looking to collaborate on java opensource projects
   
 - 🚀 Developer focused on creating impactful, efficient and user‑centric solutions.
