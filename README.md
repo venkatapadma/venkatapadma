@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for Java Full stack developer opportunities.
 - 👯 I’m looking to collaborate on java opensource projects
 
-    [Personal portfolio](venkatapadma.github.io)
+    [Personal portfolio](https://venkatapadma.github.io/portfolio-site/)
   
 - 🚀 Developer focused on creating impactful, efficient and user‑centric solutions.
  - I love working across the stack, exploring new tools, and turning ideas into production‑ready software.
